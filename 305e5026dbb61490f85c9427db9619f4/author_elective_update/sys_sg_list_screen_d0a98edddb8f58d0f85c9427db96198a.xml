@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Building">c4a942dddb8f58d0f85c9427db9619d3</icon>
+        <item_view/>
+        <name>Recommencement</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-03 17:31:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d0a98edddb8f58d0f85c9427db96198a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Recommencement</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_list_screen_d0a98edddb8f58d0f85c9427db96198a</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-03 18:21:17</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</application>
+        <file_path/>
+        <instance_id>80d8c74a6f7ec280869e7b2f5d3ee4bb</instance_id>
+        <instance_name>deloittecanadadev</instance_name>
+        <name>sys_sg_list_screen_d0a98edddb8f58d0f85c9427db96198a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Building">c4a942dddb8f58d0f85c9427db9619d3</icon><item_view/><name>Recommencement</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admdavid</sys_created_by><sys_created_on>2020-09-03 17:31:41</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d0a98edddb8f58d0f85c9427db96198a</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Recommencement</sys_name><sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope><sys_update_name>sys_sg_list_screen_d0a98edddb8f58d0f85c9427db96198a</sys_update_name><sys_updated_by>admdavid</sys_updated_by><sys_updated_on>2020-09-03 18:21:17</sys_updated_on></sys_sg_list_screen></record_update>]]></payload>
+        <payload_hash>592138002</payload_hash>
+        <record_name>Recommencement</record_name>
+        <reverted_from/>
+        <source>f45e5026dbb61490f85c9427db9619f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-03 18:21:17</sys_created_on>
+        <sys_id>fef45a51db0398d0f85c9427db961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174553393870000001</sys_recorded_at>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-03 18:21:17</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>b6f45a51fb0398d01a8c3eddec976d73</update_guid>
+        <update_guid_history>b6f45a51fb0398d01a8c3eddec976d73:592138002,1e835edd2acf58d07ad362345ab3867c:-938306364,d81316dd7fcf58d01ef2643bc46e395a:1827702994,5ca98eddb28f58d070b9c55cbbaa808d:-2018958208</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-04 13:22:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>14a5b72eeef344ca852c1ee28d2c88e9</sys_id>
+        <sys_metadata>d0a98edddb8f58d0f85c9427db96198a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recommencement</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_scope_delete display_value="">8ba01aea610540ea94641a33729fa3e9</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_d0a98edddb8f58d0f85c9427db96198a</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_d0a98edddb8f58d0f85c9427db96198a">fef45a51db0398d0f85c9427db961973</sys_update_version>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-04 13:22:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Report Vaccination Icon">17d56342db9abc10cda7e25c139619b8</icon>
+        <name>Vaccination Attestation</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>a-dtaugher</sys_created_by>
+        <sys_created_on>2021-09-01 17:45:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ebd527c2db9abc10cda7e25c139619c2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Vaccination Attestation</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_ebd527c2db9abc10cda7e25c139619c2</sys_update_name>
+        <sys_updated_by>a-dtaugher</sys_updated_by>
+        <sys_updated_on>2021-09-21 17:26:36</sys_updated_on>
+        <url>mesp?id=sc_cat_item&amp;sys_id=fd7da2b91b96b81066f7bbb21a4bcb16</url>
+    </sys_sg_browser_screen>
+</record_update>

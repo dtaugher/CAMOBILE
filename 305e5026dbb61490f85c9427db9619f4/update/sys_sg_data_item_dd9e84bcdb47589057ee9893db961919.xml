@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Change Request Approvals DI</name>
+        <query_condition table="sysapproval_approver">sysapproval.sys_class_name=change_request^approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=requested<item display_value="change_request" endquery="false" field="sysapproval.sys_class_name" goto="false" newquery="false" operator="=" or="false" value="change_request"/>
+            <item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-01 19:17:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>dd9e84bcdb47589057ee9893db961919</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Change Request Approvals DI</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_data_item_dd9e84bcdb47589057ee9893db961919</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-01 19:19:12</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_data_item>
+</record_update>

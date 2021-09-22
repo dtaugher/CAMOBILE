@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Recommencement Catalog link</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Building">b2119d87dbfa1890f85c9427db961962</icon>
+        <name>Recommencement</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-08-27 13:38:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4b111187dbfa1890f85c9427db96192c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Recommencement</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_4b111187dbfa1890f85c9427db96192c</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-04 14:10:02</sys_updated_on>
+        <url>mesp?id=multi_categories&amp;sys_id=9d6763c8db9e14909b08252b139619b7&amp;catalog_sys_id=a9d66388db9e14909b08252b13961923</url>
+    </sys_sg_browser_screen>
+</record_update>

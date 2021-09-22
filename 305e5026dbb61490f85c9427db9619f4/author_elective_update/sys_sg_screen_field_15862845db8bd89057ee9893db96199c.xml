@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>sysapproval.ref_change_request.risk</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>110</order>
+        <record_id_field/>
+        <screen display_value="Details">679018b0db87589057ee9893db96195c</screen>
+        <screen_data_item_table>sysapproval_approver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-02 15:40:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>15862845db8bd89057ee9893db96199c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>sysapproval.ref_change_request.risk</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_screen_field_15862845db8bd89057ee9893db96199c</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-03 17:56:42</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</application>
+        <file_path/>
+        <instance_id>80d8c74a6f7ec280869e7b2f5d3ee4bb</instance_id>
+        <instance_name>deloittecanadadev</instance_name>
+        <name>sys_sg_screen_field_15862845db8bd89057ee9893db96199c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>sysapproval.ref_change_request.risk</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>110</order><record_id_field/><screen display_value="Details">679018b0db87589057ee9893db96195c</screen><screen_data_item_table>sysapproval_approver</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admdavid</sys_created_by><sys_created_on>2020-09-02 15:40:11</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>15862845db8bd89057ee9893db96199c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>sysapproval.ref_change_request.risk</sys_name><sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope><sys_update_name>sys_sg_screen_field_15862845db8bd89057ee9893db96199c</sys_update_name><sys_updated_by>admdavid</sys_updated_by><sys_updated_on>2020-09-03 17:56:42</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>1205593332</payload_hash>
+        <record_name>sysapproval.ref_change_request.risk</record_name>
+        <reverted_from/>
+        <source>f45e5026dbb61490f85c9427db9619f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-03 17:56:42</sys_created_on>
+        <sys_id>625f0e59dbcf58d0f85c9427db9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174551d10730000001</sys_recorded_at>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-03 17:56:42</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>2a5f0e59c9cf58d09a87c76a0405c9ce</update_guid>
+        <update_guid_history>2a5f0e59c9cf58d09a87c76a0405c9ce:1205593332,3b0be00d358bd890ae02e4a2b5b9224b:-682962866,7386ec45bd8bd8900f9f0bfeaf7838db:1060405359,11862845638bd890980bc2b55995ad9e:-1142818182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-04 21:25:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>1af171db04c6490684d180017b195af9</sys_id>
+        <sys_metadata>15862845db8bd89057ee9893db96199c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval.ref_change_request.risk</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_scope_delete display_value="">8ba01aea610540ea94641a33729fa3e9</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_15862845db8bd89057ee9893db96199c</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_15862845db8bd89057ee9893db96199c">625f0e59dbcf58d0f85c9427db9619cf</sys_update_version>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-04 21:25:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

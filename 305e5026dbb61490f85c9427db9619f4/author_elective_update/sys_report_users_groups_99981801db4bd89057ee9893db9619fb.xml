@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">15981801db4bd89057ee9893db9619fb</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-02 14:39:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>99981801db4bd89057ee9893db9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15981801db4bd89057ee9893db9619fb</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_report_users_groups_99981801db4bd89057ee9893db9619fb</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-02 14:39:18</sys_updated_on>
+        <user_id display_value="a-Dave Taugher">1226b6244f35d20031b6e3414210c7c1</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</application>
+        <file_path/>
+        <instance_id>80d8c74a6f7ec280869e7b2f5d3ee4bb</instance_id>
+        <instance_name>deloittecanadadev</instance_name>
+        <name>sys_report_users_groups_99981801db4bd89057ee9893db9619fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">15981801db4bd89057ee9893db9619fb</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admdavid</sys_created_by><sys_created_on>2020-09-02 14:39:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>99981801db4bd89057ee9893db9619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>15981801db4bd89057ee9893db9619fb</sys_name><sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope><sys_update_name>sys_report_users_groups_99981801db4bd89057ee9893db9619fb</sys_update_name><sys_updated_by>admdavid</sys_updated_by><sys_updated_on>2020-09-02 14:39:18</sys_updated_on><user_id display_value="a-Dave Taugher">1226b6244f35d20031b6e3414210c7c1</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>305108537</payload_hash>
+        <record_name>15981801db4bd89057ee9893db9619fb</record_name>
+        <reverted_from/>
+        <source>f45e5026dbb61490f85c9427db9619f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-02 14:39:19</sys_created_on>
+        <sys_id>25981801db4bd89057ee9893db9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1744f41fdf50000001</sys_recorded_at>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-02 14:39:19</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>2d9818010b4bd890156c62cf653fd9fe</update_guid>
+        <update_guid_history>2d9818010b4bd890156c62cf653fd9fe:305108537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-02 14:40:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>066eadcac8f14ee499ded152ebd0b964</sys_id>
+        <sys_metadata>99981801db4bd89057ee9893db9619fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15981801db4bd89057ee9893db9619fb</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_parent display_value="Change Test">15981801db4bd89057ee9893db9619fb</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_scope_delete display_value="">8ba01aea610540ea94641a33729fa3e9</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_99981801db4bd89057ee9893db9619fb</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_99981801db4bd89057ee9893db9619fb">25981801db4bd89057ee9893db9619ff</sys_update_version>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-02 14:40:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Change Request Approvals DI">dd9e84bcdb47589057ee9893db961919</data_item>
+        <interleaved_field/>
+        <name>Change Request Approvals Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admdavid</sys_created_by>
+        <sys_created_on>2020-09-01 19:26:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>679018b0db87589057ee9893db96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Request Approvals Item Stream</sys_name>
+        <sys_package display_value="Mobile Apps" source="x_detc_mobile_apps">305e5026dbb61490f85c9427db9619f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Apps">305e5026dbb61490f85c9427db9619f4</sys_scope>
+        <sys_update_name>sys_sg_item_stream_679018b0db87589057ee9893db96194d</sys_update_name>
+        <sys_updated_by>admdavid</sys_updated_by>
+        <sys_updated_on>2020-09-01 19:26:01</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_item_stream>
+</record_update>
